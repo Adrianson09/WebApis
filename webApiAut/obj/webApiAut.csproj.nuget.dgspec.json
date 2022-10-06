@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aguerrero\\source\\repos\\webApiAut\\webApiAut\\webApiAut.csproj": {}
+    "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\webApiAut.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aguerrero\\source\\repos\\webApiAut\\webApiAut\\webApiAut.csproj": {
+    "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\webApiAut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aguerrero\\source\\repos\\webApiAut\\webApiAut\\webApiAut.csproj",
+        "projectUniqueName": "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\webApiAut.csproj",
         "projectName": "webApiAut",
-        "projectPath": "C:\\Users\\aguerrero\\source\\repos\\webApiAut\\webApiAut\\webApiAut.csproj",
+        "projectPath": "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\webApiAut.csproj",
         "packagesPath": "C:\\Users\\aguerrero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aguerrero\\source\\repos\\webApiAut\\webApiAut\\obj\\",
+        "outputPath": "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
