@@ -18,10 +18,13 @@ namespace webApiAut
             services.AddControllers();
 
             services.AddDbContext<AplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("defaultConnection")));    
-           
+                options.UseSqlServer(Configuration.GetConnectionString("defaultConnection")));
+
             services.AddEndpointsApiExplorer();
-            services.AddSwaggerGen();
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "WebApiAut", Version = "v1" });
+            });
 
         }
 
