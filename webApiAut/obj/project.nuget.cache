@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yLpFZNOQJIYh+G3fuBc6wIFP6r8bE1ywDBdLiOA8jKOBK1JAlkJg0ebn/DznyRVuIYW+VMOfCiChcDMLFwzq/Q==",
+  "dgSpecHash": "X7s3TNSEE8cTcuio3M15g04NEoLCY9Eq7PVZazt+m+uOCTo7EtV3pGZxCwatQcBahNk12oa0PeLKOk43l+jFHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aguerrero\\Source\\Repos\\WebApis\\webApiAut\\webApiAut.csproj",
+  "projectFilePath": "C:\\Users\\aguerrero\\source\\repos\\WebApis\\webApiAut\\webApiAut.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aguerrero\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aguerrero\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
